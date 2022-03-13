@@ -1,4 +1,4 @@
-# Project Soptify https://reactspotifyapp.netlify.app/
+# Project Soptify reactspotifyapp.netlify.app/
 ![image](https://user-images.githubusercontent.com/58084805/148913584-54cd1081-a615-4bbe-94e3-70b0f8da6a65.png)
 ## Youtube
-https://youtu.be/-CA_BdL9tI0
+youtu.be/-CA_BdL9tI0
