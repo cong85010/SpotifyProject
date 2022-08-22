@@ -1,0 +1,22 @@
+version: '2'
+services:
+  nginx:
+    restart: always
+    build: ./nginx/
+    ports:
+      - "80:80"
+    volumes:
+      - react:/code
+    
+    depends_on:
+      - web
+  web:
+    restart: always
+    build: .
+    volumes:
+      - react:/code
+    tty: true
+
+
+volumes:
+  react:
